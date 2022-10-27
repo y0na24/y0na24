@@ -1,8 +1,9 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Matvey</h1>
 <h3 align="center">My goal is to become a frontend developer '_'</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/90/ed/47/90ed47571a8a1eed4224f76ed9f11155.jpg">
+<img align="right" alt="Coding" width="400" height = "300" src="https://media.tenor.com/XQQhCjT70VQAAAAd/cosmic-garou.gif">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0na24&label=Profile%20views&color=0e75b6&style=flat" alt="y0na24" /> </p>
