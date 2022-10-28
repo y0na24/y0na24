@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **@y0na24 in Telegram**
 
-- ⚡ My hobbies **Speedcubing, gym and card tricks**
+- ⚡ My hobbies: **Speedcubing, gym and card tricks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
