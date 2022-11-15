@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Matvey</h1>
-<h3 align="center">My goal is to become a frontend developer '_'</h3>
+<h3 align="center">Web Developer '_'</h3>
 <img align="right" alt="Coding" width="400" height = "300" src="https://media.tenor.com/XQQhCjT70VQAAAAd/cosmic-garou.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **pet-projects for hub**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
 - 📫 How to reach me: **@y0na24 in Telegram**
 
