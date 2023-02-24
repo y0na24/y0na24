@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Matvei</h1>
-<h3 align="center">Web Developer '_'</h3>
+<h3 align="center">Frontend developer '_'</h3>
 <img align="right" alt="Coding" width="400" height = "300" src="https://media.tenor.com/XQQhCjT70VQAAAAd/cosmic-garou.gif">
 
 
