@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0na24&label=Profile%20views&color=0e75b6&style=flat" alt="y0na24" /> </p>
 
-- 🔭 I’m currently working on **pet-projects for hub**
+- 🔭 I’m currently working on **pet-projects**
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me: **@y0na24 in Telegram**
 
