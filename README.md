@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **pet-projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React + TS**
 
 - 📫 How to reach me: **@y0na24 in Telegram**
 
