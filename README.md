@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋,   I'm Matvei</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center">Hi,   I'm Matvei</h1>
+<h2 align="center">Frontend developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/a2o1hs3Rt3YAAAAC/nagi-blue-lock.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0na24&label=Profile%20views&color=0e75b6&style=flat" alt="y0na24" /> </p>
