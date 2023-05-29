@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi there, I'm Matvey Klenov</h1>
+<h1 align="center">👋 Hi there! I'm Matvey Klenov</h1>
 <h2 align="center">Frontend developer 👨‍💻</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/a2o1hs3Rt3YAAAAC/nagi-blue-lock.gif">
 
