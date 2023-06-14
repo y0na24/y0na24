@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0na24&label=Profile%20views&color=0e75b6&style=flat" alt="y0na24" /> </p>
 
-- 🔭 I’m currently working on **Tempoze - time management app**
+- 🔭 I’m currently working on **Tempoze app**
 
 - 🌱 I’m currently learning **React + TS**
 
