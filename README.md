@@ -189,7 +189,6 @@ Frontend Developer 🧬
 ## ☄️ Contact
 
 - :airplane: &nbsp;**[Telegram](https://t.me/y0na24)**
-- :robot: &nbsp;**[Discord](https://discord.gg/UsM4F9h6hn)**
 - :comet: &nbsp;**[Github](https://github.com/y0na24)**
 
 <br>
