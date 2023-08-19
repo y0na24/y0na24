@@ -9,7 +9,7 @@ Frontend Developer 🧬
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/y0na24)**
 <br>
 
-<h2 align="left" id="y0na24-stack">🔥 Tech stack</h2>
+<h2 align="left" id="y0na24-stack">👨‍💻 Tech stack</h2>
 
 > General
 
