@@ -5,9 +5,9 @@
 Frontend Developer 🧬
 
 - :fire: &nbsp;I develop for all platforms using **[React](https://react.dev/)**
+- 📖 &nbsp;Currently searching for a job and write projects to improve my skills
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/y0na24)**
 <br>
->
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
