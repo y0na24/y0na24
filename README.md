@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0na24&label=Profile%20views&color=0e75b6&style=flat" alt="y0na24" /> </p>
 
-- 🔭 I’m currently working on **Tempoze**
-
-- 🌱 I’m currently learning **React + TS**
+- 🔭 I’m currently working on **Shoe-palace**
 
 - 📫 How to reach me: **@y0na24 in Telegram**
 
