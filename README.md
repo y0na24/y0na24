@@ -118,6 +118,12 @@ Frontend Developer 🧬
       </a>
       <br>Bootstrap
     </td>
+   <td align="center" width="110" height="90">
+      <a href="#y0na24-stack">
+        <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" width="36" height="36" alt="Styled Components" />
+      </a>
+      <br>Styled Components
+    </td>
   </tr> 
     <tr>
     <td align="center" width="110" height="90"> 
