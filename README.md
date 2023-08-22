@@ -182,6 +182,12 @@ Frontend Developer 🧬
       </a>
       <br>Firebase
     </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#y0na24-stack" >
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="36" height="36" alt="Express" />
+      </a>
+      <br>Firebase
+    </td>
   </tr> 
 </table>
 
