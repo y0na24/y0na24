@@ -71,24 +71,6 @@ Frontend Developer 🧬
   </tr> 
 </table>
 
-> Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#y0na24stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#y0na24-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>Prettier
-    </td>
-  </tr> 
-</table>
 
 > Frontend
 
@@ -181,17 +163,24 @@ Frontend Developer 🧬
       </a>
       <br>cypress
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+  </tr> 
+</table>
+
+> Code quality
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#y0na24stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
-      <br>playwright
+      <br>Eslint
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
+    <td align="center" width="110" height="90">
+      <a href="#y0na24-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
-      <br>puppeteer
+      <br>Prettier
     </td>
   </tr> 
 </table>
