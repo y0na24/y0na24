@@ -153,6 +153,49 @@ Frontend Developer 🧬
   </tr> 
 </table>
 
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
+      </a>
+      <br>rt library
+    </td>
+        <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>storybook
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
+      </a>
+      <br>cypress
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+      </a>
+      <br>playwright
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
+      </a>
+      <br>puppeteer
+    </td>
+  </tr> 
+</table>
+
 > Mobile
 
 <table width='100%'>
