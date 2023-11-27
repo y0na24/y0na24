@@ -150,11 +150,6 @@ Frontend Developer 🧬
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
       <br>rt library
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
-      </a>
-      <br>cypress
     </td>
   </tr> 
 </table>
