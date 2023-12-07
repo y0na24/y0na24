@@ -182,18 +182,11 @@ Frontend Developer 🧬
       </a>
       <br>Prettier
     </td>
-  </tr> 
-</table>
-
-> Mobile
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#y0na24-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://camo.githubusercontent.com/aa04feafbd080140cd834905cf171ccf7b06fc5f1f1ae07ce9879218165312d1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7374796c656c696e742e737667" width="36" height="36" alt="Stylelint" />
       </a>
-      <br>React Native
+      <br>Stylelint
     </td>
   </tr> 
 </table>
